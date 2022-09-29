@@ -1,0 +1,4 @@
+﻿  gallows.cpp
+C:\Users\Ta1l\source\repos\gallows\gallows\gallows.cpp(170,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Ta1l\source\repos\gallows\gallows\gallows.cpp(51): warning C4715: GamePlay: значение возвращается не при всех путях выполнения
+  gallows.vcxproj -> C:\Users\Ta1l\source\repos\gallows\x64\Debug\gallows.exe
